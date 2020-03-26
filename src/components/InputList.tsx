@@ -12,7 +12,12 @@ const InputList: React.FC<ContainerProps> = () => {
         <h1>Add your needed items below:</h1>
       </div>
 
-      <div className="">
+      <div className="userInput">
+
+
+      </div>
+      
+      <div className="userList">
 
 
       </div>
