@@ -33,7 +33,7 @@ const Tab1: React.FC = () => {
 
             <IonItemDivider/>
 
-            <IonItem>
+            <IonItem color='primary'>
                 {text}
             </IonItem>
 
